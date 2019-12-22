@@ -12,7 +12,8 @@ The media center includes the following functionality:
 
 ### Photos:
 <img src="https://i.gyazo.com/aa623f3689443a3617dbc3c50070d75d.png" width="330" height="270" />
-![codeimage](https://i.gyazo.com/aa623f3689443a3617dbc3c50070d75d.png) 
+<img src="https://i.gyazo.com/bfb0195d587aef4fc465db911b25baa3.png" width="330" height="270" />
+
 ![codeimage](https://i.gyazo.com/bfb0195d587aef4fc465db911b25baa3.png)
 ![codeimage](https://i.gyazo.com/662c826614ae2a5729d25535437225b7.png) 
 ![codeimage](https://i.gyazo.com/c189c1ed628f53f66d5bcc88c3b536e9.png)
