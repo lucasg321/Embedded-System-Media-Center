@@ -1,0 +1,11 @@
+.\flash\minigame.o: minigame.c
+.\flash\minigame.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\flash\minigame.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\flash\minigame.o: LPC17xx.h
+.\flash\minigame.o: core_cm3.h
+.\flash\minigame.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\flash\minigame.o: system_LPC17xx.h
+.\flash\minigame.o: KBD.h
+.\flash\minigame.o: GLCD.h
+.\flash\minigame.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
+.\flash\minigame.o: LED.h
