@@ -9,7 +9,6 @@ The media center includes the following functionality:
 * A Tic Tac Toe game where the users can play against the computer or another player
 * A minigame called StopLight where users must stop a light on a specific LED on the board
 
-<img src="Images/menu.JPG" width="318" height="226"> <img src="Images/gallery.JPG" width="318" height="226">
-<img src="Images/mp3.JPG" width="318" height="226"> <img src="Images/snake.JPG" width="318" height="226">
+
 
 
