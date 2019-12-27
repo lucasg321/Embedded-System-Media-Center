@@ -2,7 +2,7 @@
 A Media Center developed with Keil uVision and C on the MCB 1700 board and ARM Cortex-M3 processor. 
 
 ### Description: 
-The main files to look at which provide the below functionality are: Blinky.c (main menu), gallery.c (photo gallery), usbdmain.c (mp3 connection), ttt.c (tic tac toe vs computer), ttt_multi.c (tic tac toe vs player), and minigame.c (StopLight LED minigame).
+The main files to look at which provide the below functionality are: **Blinky.c** (main menu), **gallery.c** (photo gallery), **usbdmain.c** (mp3 connection), **ttt.c** (tic tac toe vs computer), **ttt_multi.c** (tic tac toe vs player), and **minigame.c** (StopLight LED minigame).
 
 The media center includes the following functionality:
 * Photo gallery 
